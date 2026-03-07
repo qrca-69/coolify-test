@@ -4,4 +4,4 @@ app = FastAPI()
 
 @app.get("/")
 def read_root():
-    return {"messsage": "Coolify works."}
+    return {"messsage": "Caprover works."}
